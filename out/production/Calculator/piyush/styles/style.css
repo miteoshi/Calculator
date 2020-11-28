@@ -1,0 +1,9 @@
+.number-button{
+  -fx-font-size:  16px;
+  -fx-font-weight: bold;
+}
+.operator-button{
+-fx-font-size: 16px;
+ -fx-font-weight: black;
+  -fx-font-weight: normal;
+}
